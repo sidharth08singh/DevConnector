@@ -1,3 +1,6 @@
+/**
+ * Profile Route - contains routes for accessing different profile APIs.
+ */
 const express = require("express");
 const router = express.Router();
 const mongoose = require("mongoose");

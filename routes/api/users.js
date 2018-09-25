@@ -1,3 +1,6 @@
+/**
+ * User Route - contains routes for accessing different user APIs.
+ */
 const express = require("express");
 const router = express.Router();
 const gravatar = require("gravatar");
