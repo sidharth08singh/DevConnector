@@ -1,7 +1,7 @@
 {
   "name": "devconnector",
   "version": "1.0.0",
-  "description": "Social Network to help Developers connect with each other",
+  "description": "A social networking application for Developers",
   "main": "server.js",
   "scripts": {
     "client-install": "npm install --prefix client",
